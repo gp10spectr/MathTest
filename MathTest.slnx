@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="MathLib/MathLib.vcxproj" />
   <Project Path="MathTest/MathTest.vcxproj" />
+  <Project Path="Tests/Tests.vcxproj" />
 </Solution>
