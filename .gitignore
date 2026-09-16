@@ -70,3 +70,4 @@ Testing/
 packages
 .vs
 x64
+*.vcxproj.user
